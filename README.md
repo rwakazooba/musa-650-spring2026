@@ -1,6 +1,6 @@
 # Geospatial Machine Learning in Remote Sensing (MUSA 650)
 
-![](public/usgs-35Z2ylLRCO8-unsplash.jpg)
+![](public/usgs-35Z2ylLRCO8-unsplash.jpg){height=20%}
 
 [Overview](#overview-and-objectives) | [Schedule](#schedule) | [Tips](#tips-for-success) | [Assignments](#assignments) | [Software](#software) | [Academic Integrity](#academic-integrity-and-ai-use)
 
