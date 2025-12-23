@@ -12,11 +12,10 @@ You will not be given any code. Instead, you will work through tutorials develop
 **Study area**: Province of Nuoro, Sardinia, Italy  
 **Event**: Wildfire, June 10, 2025 (~1000 hectares burned)  
 **Datasets**: Sentinel-2 L2A, Sentinel-3 SLSTR LST  
-**Goal**: Produce a 2x2 panel figure summarizing the fire event using non-ML techniques
 
 #### Reference Materials
 
-These three tutorials contain everything you need. You don't need to work through them linearly—pull what you need for each task.
+These three tutorials contain everything you need. You don't need to work through them linearly; pull what you need for each task.
 
 - [Fire in Sardinia - Part 1](https://eopf-docs.eodc.eu/eopf-data-book/EOPF%20Zarr%20in%20Action/sardinia-fire-p1.html): True and false color composites, pre/post comparison
 - [Fire in Sardinia - Part 2](https://eopf-docs.eodc.eu/eopf-data-book/EOPF%20Zarr%20in%20Action/sardinia-fire-p2.html): Sentinel-3 LST integration, thermal anomaly detection
