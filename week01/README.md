@@ -7,7 +7,7 @@ Slides: [TODO]
 See [README.md](../../README.md) for syllabus.
 
 #### Intro Survey
-Link to survey: [TODO]
+Link to survey: [https://docs.google.com/forms/d/e/1FAIpQLSeX0qs3FfpPdsETKJqB0InX5ImvaYGNpIPScrAUaIQM2UAbWw/viewform?usp=preview](https://docs.google.com/forms/d/e/1FAIpQLSeX0qs3FfpPdsETKJqB0InX5ImvaYGNpIPScrAUaIQM2UAbWw/viewform?usp=preview)
 
 #### Software Installation
 See [README.md](../../README.md#software) for instructions.
