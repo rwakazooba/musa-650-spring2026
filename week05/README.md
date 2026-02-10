@@ -1,5 +1,3 @@
-This is a great one because it covers the Eurosat dataset that we wanted to use anyway: https://book.ml4rs.com/landcover-classification.html
-
 ## Week 5: Data Generation and Model Selection
 
 ### Lecture
