@@ -3,11 +3,11 @@
 ### Lecture
 Slides: https://docs.google.com/presentation/d/e/2PACX-1vR4RgLroTDM9ZBZ1U9afBOOFcHvPOKjorr9WKDQKCsU6gOwriaMwy9VbY62-uHRh-gHayxmc-vM3bn0/pub?start=false&loop=false&delayms=3000
 
-## Recommend Resources
+### Recommend Resources
 - [End-to-end land cover classification workflow](brasil.mapbiomas.org/en/atbd-entenda-cada-etapa/nas) from Mapbiomas
 - [Fundamentals of Machine Learning for Earth Science](https://appliedsciences.nasa.gov/get-involved/training/english/arset-fundamentals-machine-learning-earth-science), NASA ARSET
 
-### Lab: Supversied land cover classification with Sentinel 2
+### Lab: Supervised land cover classification with Sentinel 2
 
 In this lab, we'll compare several different traditional ML models applied to classifying Sentinel 2 data over Vienna, Austria in order to produce a forest cover map. You'll generate your own code based largely on [this lab from Project Pythia](https://projectpythia.org/eo-datascience-cookbook/notebooks/templates/classification/).
 
