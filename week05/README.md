@@ -13,6 +13,7 @@ Slides: https://docs.google.com/presentation/d/e/2PACX-1vR4RgLroTDM9ZBZ1U9afBOOF
 
 In this lab, we'll compare several different traditional ML models applied to classifying Sentinel 2 data over Vienna, Austria in order to produce a forest cover map. You'll generate your own code based largely on [this lab from Project Pythia](https://projectpythia.org/eo-datascience-cookbook/notebooks/templates/classification/).
 
+_Note: as in last week's lab, you'll want to use `dask` to speed up data loading. None of your cells should take longer than a minute to run, barring bad network connection. If you find that this is happening, in particular when calculating median composites, pause and double-check where you're calling `.compute()`. Feel free to check the solutions notebook if necessary._
 
 #### Part 1: Data Aquisition + Preprocessing
 1. Following the code in the lab, pull Sentinel 2 data over Vienna from May of 2024. Load the data into an `xarray` dataset and visualize the RGB image and false color composite.
