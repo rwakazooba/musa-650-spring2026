@@ -2,8 +2,8 @@
 generate_lab.py
 Generates two step-by-step lab notebooks from DL_Basics1_SimpleMLP.ipynb
 and DLBasics_SimpleCNN.ipynb:
-  - week06_lab_student.ipynb   (questions / TODOs)
-  - week06_lab_solutions.ipynb (complete solutions)
+  - week08_lab_student.ipynb   (questions / TODOs)
+  - week08_lab_solutions.ipynb (complete solutions)
 """
 
 import os
@@ -11,8 +11,8 @@ import nbformat
 from nbformat.v4 import new_notebook, new_markdown_cell, new_code_cell
 
 FOLDER = os.path.dirname(os.path.abspath(__file__))
-OUT_STUDENT   = os.path.join(FOLDER, "week06_lab_student.ipynb")
-OUT_SOLUTIONS = os.path.join(FOLDER, "week06_lab_solutions.ipynb")
+OUT_STUDENT   = os.path.join(FOLDER, "week08_lab_student.ipynb")
+OUT_SOLUTIONS = os.path.join(FOLDER, "week08_lab_solutions.ipynb")
 
 # ---------------------------------------------------------------------------
 # Shared helpers
@@ -667,7 +667,7 @@ Answer these questions in a new markdown cell:
 def build_student():
     nb = new_notebook()
     cells = [
-        md("# Week 06 Lab — Deep Learning Basics: MLP and CNN (Student)\n\n"
+        md("# Week 08 Lab — Deep Learning Basics: MLP and CNN (Student)\n\n"
            "**Instructions**: fill in every `___` blank and implement every "
            "`# TODO` comment.\n"
            "Do *not* look at the solutions notebook until you have tried each "
@@ -706,7 +706,7 @@ def build_student():
 def build_solutions():
     nb = new_notebook()
     cells = [
-        md("# Week 06 Lab — Deep Learning Basics: MLP and CNN (Solutions)\n\n"
+        md("# Week 08 Lab — Deep Learning Basics: MLP and CNN (Solutions)\n\n"
            "Complete reference solutions."),
 
         # Part 1
